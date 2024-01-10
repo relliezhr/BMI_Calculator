@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BMI_Calculator</string>
+    <string name="height">Tinggi (cm)</string>
+    <string name="weight">Berat (kg)</string>
+    <string name="buttonMale">Laki-laki</string>
+    <string name="buttonFemale">Perempuan</string>
+    <string name="result">Hasil BMI Anda</string>
+    <string name="calculate">Hitung</string>
+    <string name="heightTitle">Tinggi Badan:</string>
+    <string name="weightTitle">Berat Badan:</string>
+    <string name="gender">Jenis Kelamin:</string>
+    <string name="name">Nama:</string>
+    <string name="addres">Alamat:</string>
+    <string name="fullName">Nama Lengkap</string>
+    <string name="city">Kota/Kabupaten</string>
+
+    <string name="reset">Reset</string>
+
+</resources>
